@@ -4,5 +4,7 @@
  
  
 unclaimed tokens : 29825726.95935806
+
 unclaimed accounts: 4567
-(17/12/2018)
+
+(status 17/12/2018)
