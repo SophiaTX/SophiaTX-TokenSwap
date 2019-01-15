@@ -3,8 +3,8 @@
  All successfully swapped users can find their account name that has been linked to their ETH address in sphtx_claims.txt file.
  
  
-unclaimed tokens : 29825726.95935806
+unclaimed tokens : 29767545.055940043
 
-unclaimed accounts: 4567
+unclaimed accounts: 4558
 
-(status 17/12/2018)
+(status 15/1/2019)
